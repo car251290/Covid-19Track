@@ -13,6 +13,13 @@ I use the language of Javascript and the concepts that I learn in my work experi
 
  I understand better how to create a React application, I use the language of Javascript and the concepts that I learn in my work experence for made it better and faster, I use an API for the information. 
 
+# Using material-ui for the design of the card
+
+Why use Material-UI's styling solution?
+
+In previous versions, Material-UI has used LESS, then a custom inline-style solution to write the component styles, but these approaches have proven to be limited. A CSS-in-JS solution overcomes many of those limitations, and unlocks many great features (theme nesting, dynamic styles, self-support, etc.).
+As a reference Visit the Link
+https://material-ui.com
 
 
 Runs the app in the development mode.
