@@ -3,8 +3,8 @@
 https://language.water.blog/2020/04/30/covid-tracker/
 
 # Covid-19Track
+Link to the application: https://reverent-spence-582593.netlify.app/
 
-This project was bootstrapped with Create React App.
 The react tracker
 The COVID Tracker is a project made to React and using Visual Studio, Why I made it? Well, 
 for the people to help to see each day the new cases and how is evolving the
